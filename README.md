@@ -4,7 +4,7 @@ Hi 👋 My name is Ryan
 Full Stack Software Developer
 -----------------------------
 
-I'm a 22 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 22 years old developer since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
 I am also a developer at [Visio | Softwares](https://visio.com.br/)
 
