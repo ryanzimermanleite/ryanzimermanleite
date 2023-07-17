@@ -6,7 +6,7 @@ Full Stack Software Developer
 
 I'm a 22 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-I am also a developer at [Visio | Softwares](https://visio.com.br/), a Software Engineering(https://www.42network.org/42-schools/).
+I am also a developer at [Visio | Softwares](https://visio.com.br/)
 
 * 🌍  I'm based in Campinas, Brazil
 * ✉️  You can contact me at [z.ryanleite@gmail.com](mailto:z.ryanleite@gmail.com)
