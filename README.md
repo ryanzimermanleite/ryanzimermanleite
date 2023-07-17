@@ -11,7 +11,7 @@ I am also a developer at [Visio | Softwares](https://visio.com.br/)
 * 🌍  I'm based in Campinas, Brazil
 * ✉️  You can contact me at [z.ryanleite@gmail.com](mailto:z.ryanleite@gmail.com)
 * 🚀  I'm currently working on Visio Softwares as a developer ERP
-* 🧠  I'm learning Advanced Javas, Unit Tests and C# programming languages
+* 🧠  I'm learning Java, and C# programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love Games and my favorite is Counter Strike
 
