@@ -1,5 +1,5 @@
-Hi 👋 My name is Ryan
-==========================
+Hi 👋 My name is Ryan Zimerman Leite
+====================================
 
 Full Stack Software Developer
 -----------------------------
